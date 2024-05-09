@@ -28,7 +28,7 @@ function MyRGBPanel() {
         style={rgbCss}
       >
         <h2 style={{color: "red"}}>
-          5B0G0041
+          5B0G0041 趙偉聖 
         </h2>
         <div
           style={{
