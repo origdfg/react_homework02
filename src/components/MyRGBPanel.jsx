@@ -28,7 +28,7 @@ function MyRGBPanel() {
         style={rgbCss}
       >
         <h2 style={{color: "red"}}>
-          目前色彩
+          5B0G0041
         </h2>
         <div
           style={{
